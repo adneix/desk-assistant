@@ -1,0 +1,8 @@
+models/
+runs/
+__pycache__/
+*.pth
+*.pt
+*.onnx
+.env
+.DS_Store
